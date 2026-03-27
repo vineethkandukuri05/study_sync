@@ -1,0 +1,5 @@
+{
+  "name": "Student Study Partner Finder",
+  "description": "A platform for students to find study partners based on subjects and availability, featuring intelligent matching and Jitsi integration.",
+  "requestFramePermissions": []
+}
